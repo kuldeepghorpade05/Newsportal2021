@@ -1,0 +1,7 @@
+
+credential for admin panel :
+username / email : admin 
+Password : Test@12345
+
+
+NOTE: - To create post, type the content in "post description". Copy-Paste of contents will give error sometimes.
